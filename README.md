@@ -14,6 +14,9 @@ Employee attrition is a significant challenge for organizations, affecting produ
   ## Methodology
   The analysis was conducted using Excel, focusing on various employee characteristics such as age, education, business travel, salary, years at the company, job role, and work-life balance. The following steps were taken to derive meaningful insights from the data:
   - **Data Cleaning and Preparation:** Used Power Query to clean and transform raw data, ensuring consistency and accuracy.
+  - **Exploratory Data Analysis (EDA):** Leveraged Power Pivot and DAX measures to uncover trends and patterns in the dataset.
+  - **Correlation Analysis:** Examined relationships between attrition and key factors such as distance from home, years at the company, and job satisfaction to identify potential drivers of employee turnover.
+  - **Data Visualization:** Developed interactive dashboards to present insights clearly, making it easier for stakeholders to understand key findings and take action.
 
 
 
