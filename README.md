@@ -9,7 +9,11 @@ Employee attrition is a significant challenge for organizations, affecting produ
 - What are the primary factors driving employee attrition?
 - Are there specific employee segments with a higher likelihood of leaving?
 - How do work-life balance, job satisfaction, and compensation impact an employee's decision to leave?
-  
+  ## Data Structure
+  The dataset contains 1,470 records with 35 columns detailing various employee attributes. These include age, attrition status, business travel, daily rate, department, education, job role, work-life balance, demographic details, job satisfaction, and performance metrics.
+  ## Methodology
+  The analysis was conducted using Excel, focusing on various employee characteristics such as age, education, business travel, salary, years at the company, job role, and work-life balance. The following steps were taken to derive meaningful insights from the data:
+  - **Data Cleaning and Preparation:** Used Power Query to clean and transform raw data, ensuring consistency and accuracy.
 
 
 
